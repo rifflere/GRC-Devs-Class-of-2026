@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import NavBar from './components/NavBar'
+import HomePage from './components/HomePage'
 import TeacherPage from './components/TeacherPage'
 import StudentsPage from './components/StudentsPage'
 import teachers from './data/teachers'
@@ -7,13 +8,13 @@ import notes from './data/notes'
 import './App.css'
 
 function App() {
-  const [activePage, setActivePage] = useState(teachers[0].id)
+  const [activePage, setActivePage] = useState('home')
 
   const activeTeacher = teachers.find((t) => t.id === activePage)
 
   return (
     <div className="app">
-      <header className="site-header">
+      <header className="site-header" onClick={() => setActivePage('home')} style={{ cursor: 'pointer' }}>
         <div className="header-inner">
           <p className="header-eyebrow">Green River College · Software Development</p>
           <h1 className="site-title">Thank You</h1>
@@ -28,15 +29,13 @@ function App() {
       />
 
       <main className="main-content">
-        {activePage === 'students' ? (
-          <StudentsPage />
-        ) : (
-          activeTeacher && (
-            <TeacherPage
-              teacher={activeTeacher}
-              notes={notes[activePage] || []}
-            />
-          )
+        {activePage === 'home' && <HomePage />}
+        {activePage === 'students' && <StudentsPage />}
+        {activeTeacher && (
+          <TeacherPage
+            teacher={activeTeacher}
+            notes={notes[activePage] || []}
+          />
         )}
       </main>
 

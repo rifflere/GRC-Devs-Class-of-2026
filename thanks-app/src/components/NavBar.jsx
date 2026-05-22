@@ -1,7 +1,7 @@
 export default function NavBar({ teachers, activePage, onPageChange }) {
   return (
     <nav className="navbar">
-      <div className="nav-scroll">
+      <div className="teacher-tabs">
         {teachers.map((teacher) => (
           <button
             key={teacher.id}
@@ -11,13 +11,13 @@ export default function NavBar({ teachers, activePage, onPageChange }) {
             {teacher.name}
           </button>
         ))}
-        <button
-          className={`nav-tab students-tab ${activePage === 'students' ? 'active' : ''}`}
-          onClick={() => onPageChange('students')}
-        >
-          ★ Our Class
-        </button>
       </div>
+      <button
+        className={`students-tab ${activePage === 'students' ? 'active' : ''}`}
+        onClick={() => onPageChange('students')}
+      >
+        ★ Our Class
+      </button>
     </nav>
   )
 }

@@ -44,13 +44,16 @@
 .navbar {
   background-color: var(--green-dark);
   border-bottom: 3px solid var(--gold);
-  overflow-x: auto;
+  display: flex;
+  align-items: stretch;
 }
 
-.nav-scroll {
+.teacher-tabs {
+  flex: 1;
   display: flex;
-  width: max-content;
-  min-width: 100%;
+  justify-content: center;
+  flex-wrap: wrap;
+  overflow-x: auto;
 }
 
 .nav-tab {
@@ -76,8 +79,26 @@
 }
 
 .students-tab {
-  margin-left: auto;
-  border-left: 1px solid rgba(255, 255, 255, 0.1);
+  flex-shrink: 0;
+  background: none;
+  border: none;
+  border-left: 2px solid rgba(200, 160, 40, 0.35);
+  color: var(--gold);
+  font-size: 0.88rem;
+  font-weight: 700;
+  padding: 14px 22px;
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.students-tab:hover {
+  background-color: rgba(200, 160, 40, 0.12);
+}
+
+.students-tab.active {
+  background-color: var(--gold);
+  color: var(--green-dark);
 }
 
 /* ── Main Content ──────────────────────────────────────── */
@@ -88,6 +109,66 @@
   width: 100%;
   margin: 0 auto;
   padding: 40px 24px;
+}
+
+/* ── Home / Thank You Card ─────────────────────────────── */
+
+.home-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 55vh;
+}
+
+.thank-you-card {
+  max-width: 540px;
+  width: 100%;
+  background: white;
+  border: 1px solid var(--border);
+  border-top: 5px solid var(--gold);
+  border-radius: 8px;
+  padding: 56px 48px;
+  text-align: center;
+  box-shadow: 0 4px 28px rgba(0, 0, 0, 0.07);
+}
+
+.card-eyebrow {
+  font-size: 0.75rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--text-light);
+  margin-bottom: 24px;
+}
+
+.card-heading {
+  font-family: 'Playfair Display', serif;
+  font-size: 5rem;
+  font-weight: 700;
+  color: var(--green);
+  line-height: 1;
+  margin-bottom: 20px;
+}
+
+.card-divider {
+  width: 56px;
+  height: 2px;
+  background: var(--gold);
+  margin: 0 auto 28px;
+}
+
+.card-body {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--text);
+  font-style: italic;
+  margin-bottom: 36px;
+}
+
+.card-prompt {
+  font-size: 0.78rem;
+  color: var(--text-light);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
 }
 
 /* ── Teacher Page ──────────────────────────────────────── */
@@ -346,8 +427,76 @@
 
 /* ── Responsive ────────────────────────────────────────── */
 
-@media (max-width: 600px) {
-  .site-title { font-size: 2.2rem; }
-  .teacher-header { flex-direction: column; align-items: center; text-align: center; }
-  .nav-tab { padding: 12px 14px; font-size: 0.82rem; }
+@media (max-width: 768px) {
+  .main-content {
+    padding: 24px 16px;
+  }
+
+  .teacher-header {
+    padding: 20px;
+    gap: 20px;
+  }
+
+  .thank-you-section {
+    padding: 16px 18px;
+  }
+
+  .sticky-wall {
+    padding: 24px 16px;
+    gap: 16px;
+  }
+
+  .sticky-note {
+    width: 140px;
+    min-height: 130px;
+  }
+
+  .students-grid {
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 16px;
+  }
+}
+
+@media (max-width: 540px) {
+  .site-header {
+    padding: 24px 16px 20px;
+  }
+
+  .site-title {
+    font-size: 2.2rem;
+  }
+
+  .header-eyebrow {
+    font-size: 0.72rem;
+  }
+
+  .nav-tab,
+  .students-tab {
+    padding: 10px 13px;
+    font-size: 0.82rem;
+  }
+
+  .teacher-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .teacher-info h2 {
+    font-size: 1.4rem;
+  }
+
+  .sticky-wall {
+    padding: 20px 12px;
+    gap: 14px;
+  }
+
+  .sticky-note {
+    width: calc(50% - 7px);
+    min-height: 120px;
+  }
+
+  .students-grid {
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  }
 }
