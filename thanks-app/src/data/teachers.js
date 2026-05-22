@@ -1,0 +1,60 @@
+const teachers = [
+  {
+    id: 'teacherName1',
+    name: 'Teacher Name 1',
+    subject: 'Software Development',
+    linkedin: '',
+    photo: null,
+    thankYou: '[Coming soon!]',
+  },
+  {
+    id: 'teacherName2',
+    name: 'Teacher Name 2',
+    subject: 'Software Development',
+    linkedin: '',
+    photo: null,
+    thankYou: '[Coming soon!]',
+  },
+  {
+    id: 'teacherName3',
+    name: 'Teacher Name 3',
+    subject: 'Software Development',
+    linkedin: '',
+    photo: null,
+    thankYou: '[Coming soon!]',
+  },
+  {
+    id: 'teacherName4',
+    name: 'Teacher Name 4',
+    subject: 'Software Development',
+    linkedin: '',
+    photo: null,
+    thankYou: '[Coming soon!]',
+  },
+  {
+    id: 'teacherName5',
+    name: 'Teacher Name 5',
+    subject: 'Software Development',
+    linkedin: '',
+    photo: null,
+    thankYou: '[Coming soon!]',
+  },
+  {
+    id: 'teacherName6',
+    name: 'Teacher Name 6',
+    subject: 'Software Development',
+    linkedin: '',
+    photo: null,
+    thankYou: '[Coming soon!]',
+  },
+  {
+    id: 'teacherName7',
+    name: 'Teacher Name 7',
+    subject: 'Software Development',
+    linkedin: '',
+    photo: null,
+    thankYou: '[Coming soon!]',
+  },
+]
+
+export default teachers
