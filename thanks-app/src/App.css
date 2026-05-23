@@ -279,6 +279,7 @@
 .sticky-wall {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   gap: 20px;
   background: #c4a46a;
   background-image:

@@ -6,12 +6,16 @@ export default function TeacherPage({ teacher, notes }) {
     .map((n) => n[0])
     .join('')
 
+  const photoSrc = teacher.photo
+    ? `${import.meta.env.BASE_URL}${teacher.photo.replace(/^\//, '')}`
+    : null
+
   return (
     <div className="teacher-page">
       <div className="teacher-header">
         <div className="teacher-photo-wrapper">
-          {teacher.photo ? (
-            <img src={teacher.photo} alt={teacher.name} className="teacher-photo" />
+          {photoSrc ? (
+            <img src={photoSrc} alt={teacher.name} className="teacher-photo" />
           ) : (
             <div className="teacher-photo placeholder">{initials}</div>
           )}

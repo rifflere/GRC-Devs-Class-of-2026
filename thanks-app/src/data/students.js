@@ -20,12 +20,18 @@
 
 const students = [
   {
+    name: 'Rebecca Riffle',
+    blurb: 'Former HS Latin Teacher, current Software Engineer. Excited to build things that help people and to keep learning!',
+    linkedin: 'https://www.linkedin.com/in/rebecca-riffle/',
+    photo: '/photos/students/rebeccariffle.jpg',
+  },
+  // Add yourself below this line ↓
+    {
     name: 'Student Name',
     blurb: 'Your blurb here!',
     linkedin: '',
     photo: null,
   },
-  // Add yourself below this line ↓
 ]
 
 export default students

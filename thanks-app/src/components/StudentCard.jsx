@@ -4,10 +4,14 @@ export default function StudentCard({ student }) {
     .map((n) => n[0])
     .join('')
 
+  const photoSrc = student.photo
+    ? `${import.meta.env.BASE_URL}${student.photo.replace(/^\//, '')}`
+    : null
+
   return (
     <div className="student-card">
-      {student.photo ? (
-        <img src={student.photo} alt={student.name} className="student-photo" />
+      {photoSrc ? (
+        <img src={photoSrc} alt={student.name} className="student-photo" />
       ) : (
         <div className="student-photo placeholder">{initials}</div>
       )}

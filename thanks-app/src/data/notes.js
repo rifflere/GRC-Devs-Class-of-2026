@@ -18,6 +18,19 @@
 const notes = {
   teacherName1: [
     { from: 'The Class of 2026', message: 'Thank you for everything!' },
+    { from: 'The Class of 2026', message: 'Thank you for everything!' },
+    { from: 'The Class of 2026', message: 'Thank you for everything!' },
+    { from: 'The Class of 2026', message: 'Thank you for everything!' },
+    { from: 'The Class of 2026', message: 'Thank you for everything!' },
+    { from: 'The Class of 2026', message: 'Thank you for everything!' },
+    { from: 'The Class of 2026', message: 'Thank you for everything!' },
+    { from: 'The Class of 2026', message: 'Thank you for everything!' },
+    { from: 'The Class of 2026', message: 'Thank you for everything!' },
+    { from: 'The Class of 2026', message: 'Thank you for everything!' },
+    { from: 'The Class of 2026', message: 'Thank you for everything!' },
+    { from: 'The Class of 2026', message: 'Thank you for everything!' },
+    { from: 'The Class of 2026', message: 'Thank you for everything!' },
+    { from: 'The Class of 2026', message: 'Thank you for everything!' },
     // Add your note below this line ↓
   ],
 
