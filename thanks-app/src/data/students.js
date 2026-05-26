@@ -21,7 +21,7 @@
 const students = [
   {
     name: 'Rebecca Riffle',
-    blurb: 'Former HS Latin Teacher, current Software Engineer. Excited to build things that help people and to keep learning!',
+    blurb: 'Cohort 20 | From teaching classical Latin to building innovative software, Rebecca can do it all.',
     linkedin: 'https://www.linkedin.com/in/rebecca-riffle/',
     photo: '/photos/students/rebeccariffle.jpg',
   },
