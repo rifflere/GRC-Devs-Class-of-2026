@@ -37,6 +37,7 @@ const notes = {
 
   auberonLópez: [
     { from: 'The Class of 2026', message: 'There is something special about a teacher who is clearly having as much fun as you are. Algorithms felt less like a chore and more like a puzzle we actually wanted to solve. That is all you.' },
+    { from: 'Rebecca Riffle', message: 'Thanks for taking the time to review fundamental trigonometry with me, just to help me understand how to animate the moon going around the earth. I appreciate how you always make time for your students!' },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
