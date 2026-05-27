@@ -265,6 +265,39 @@
   font-style: italic;
   line-height: 1.7;
 }
+.skills {
+  margin: 18px 0 20px;
+}
+
+.skills p {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--text-light);
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.teacher-skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.teacher-skill {
+  background: #f4f6f2;
+  color: var(--green-dark);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 7px 12px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  line-height: 1;
+}
 
 /* ── Sticky Wall ───────────────────────────────────────── */
 

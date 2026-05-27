@@ -23,6 +23,15 @@ export default function TeacherPage({ teacher, notes }) {
         <div className="teacher-info">
           <h2>{teacher.name}</h2>
           <p className="teacher-subject">{teacher.subject}</p>
+          {teacher.skills && teacher.skills.length > 0 && (
+            <div className="skills">
+              <p>Skills we learned along the way:</p>
+              <ul className="teacher-skills">
+                {teacher.skills && teacher.skills.map((skill) => (
+                  <li key={skill} className="teacher-skill">{skill}</li>
+                ))}
+              </ul>
+            </div>)}
           {teacher.linkedin && (
             <a
               href={teacher.linkedin}
