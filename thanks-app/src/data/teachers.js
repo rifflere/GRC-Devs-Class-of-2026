@@ -2,7 +2,7 @@ const teachers = [
   {
     id: 'joshArcher',
     name: 'Josh Archer',
-    subject: 'Software Development',
+    subject: 'Software Development | Server-Side Web Development',
     linkedin: 'https://www.linkedin.com/in/josh-archer-797635102/',
     photo: null,
     thankYou: 'Thank you for pushing us to think bigger about scalable systems, elegant design, and what it really means to grow as a developer. Your class required extra coffee, but every cup was worth it.',
@@ -10,14 +10,14 @@ const teachers = [
   {
     id: 'auberonLópez',
     name: 'Auberon López',
-    subject: 'Software Development',
+    subject: 'Software Development | Systems Programming | Data Structures | Algorithms',
     linkedin: 'https://www.linkedin.com/in/auberon-lopez/',
     photo: null,
     thankYou: 'Thank you for bringing the best kind of nerdy energy to data structures and algorithms. Your creativity and genuine joy for the subject made even the toughest concepts feel like an adventure worth going on.',
   },
   {
     id: 'tinaOstrander',
-    name: 'Tina Ostrander',
+    name: 'Tina Ostrander | Web Development Frameworks | Senior Capstone',
     subject: 'Software Development',
     linkedin: 'https://www.linkedin.com/in/tinaostrander/',
     photo: null,
@@ -26,7 +26,7 @@ const teachers = [
   {
     id: 'ixiusProcopios',
     name: 'Ixius Procopios',
-    subject: 'Software Development',
+    subject: 'Software Development | Full Stack Web Development',
     linkedin: 'https://www.linkedin.com/in/ix-procopios/',
     photo: null,
     thankYou: 'Thank you for introducing us to modern frontend frameworks and for your dedication to helping us learn and grow as developers. We appreciate your creativity and your willingness to share your knowledge and experience with us.',
@@ -34,7 +34,7 @@ const teachers = [
   {
     id: 'kellerFlint',
     name: 'Keller Flint',
-    subject: 'Software Development',
+    subject: 'Software Development| Cloud Application Deployment | Applied AI | Senior Capstone',
     linkedin: 'https://www.linkedin.com/in/kellerflint/',
     photo: null,
     thankYou: 'Thank you for your clear, responsive teaching across AI, Machine Learning, SQL, and Senior Capstone. Your online lessons are some of the best we have experienced, well-structured, engaging, and always there when we needed them.',
@@ -42,14 +42,14 @@ const teachers = [
   {
     id: 'tylerSchrock',
     name: 'Tyler Schrock',
-    subject: 'Software Development',
+    subject: 'Software Development | Senior Capstone',
     linkedin: 'https://www.linkedin.com/in/tylerdschrock/',
     photo: null,
     thankYou: 'Thank you for making Senior Capstone, Professionalism, and Modern Client Relations feel approachable and real-world relevant. Your friendly presence made it easy to ask questions and grow with confidence.',
   },
   {
     id: 'susanUland',
-    name: 'Susan Uland',
+    name: 'Susan Uland | AI/ML Fundamentals',
     subject: 'Software Development',
     linkedin: 'https://www.linkedin.com/in/susan-uland-6b319939/',
     photo: null,
