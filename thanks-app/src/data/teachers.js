@@ -17,8 +17,8 @@ const teachers = [
   },
   {
     id: 'tinaOstrander',
-    name: 'Tina Ostrander | Web Development Frameworks | Senior Capstone',
-    subject: 'Software Development',
+    name: 'Tina Ostrander',
+    subject: 'Software Development | Web Development Frameworks | Senior Capstone',
     linkedin: 'https://www.linkedin.com/in/tinaostrander/',
     photo: null,
     thankYou: 'Thank you for grounding us in modern web development with such a clear eye for design. You gave us not just the skills, but the sensibility to build things that are both functional and beautiful.',
@@ -34,7 +34,7 @@ const teachers = [
   {
     id: 'kellerFlint',
     name: 'Keller Flint',
-    subject: 'Software Development| Cloud Application Deployment | Applied AI | Senior Capstone',
+    subject: 'Software Development | Cloud Application Deployment | Applied AI | Senior Capstone',
     linkedin: 'https://www.linkedin.com/in/kellerflint/',
     photo: null,
     thankYou: 'Thank you for your clear, responsive teaching across AI, Machine Learning, SQL, and Senior Capstone. Your online lessons are some of the best we have experienced, well-structured, engaging, and always there when we needed them.',
@@ -49,8 +49,8 @@ const teachers = [
   },
   {
     id: 'susanUland',
-    name: 'Susan Uland | AI/ML Fundamentals',
-    subject: 'Software Development',
+    name: 'Susan Uland',
+    subject: 'Software Development | AI/ML Fundamentals',
     linkedin: 'https://www.linkedin.com/in/susan-uland-6b319939/',
     photo: null,
     thankYou: 'Thank you for your compassion and kindness in guiding us through Machine Learning fundamentals. You modeled what it looks like to stay curious and embrace a growth mindset, and that is a lesson that goes far beyond any curriculum.',
