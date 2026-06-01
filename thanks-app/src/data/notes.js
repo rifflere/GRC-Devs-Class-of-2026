@@ -62,6 +62,7 @@ const notes = {
   tylerSchrock: [
     { from: 'The Class of 2026', message: 'You made us realize that being a good developer is only part of the job. Knowing how to show up, communicate, and work with people matters just as much. Thank you for teaching us that.' },
     { from: 'Emily Menken', message: 'Thank you for always giving such great advice, both during sprint plan reviews and just in general! Your positive energy is so refreshing!' },
+    { from: 'Rebecca Riffle', message: 'Thank you for going out of your way to drive Women in Tech and Board Masters to the STEM night at the elementary school. You are so supportive and kind!' },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
