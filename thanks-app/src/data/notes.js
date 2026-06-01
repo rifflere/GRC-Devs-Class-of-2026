@@ -51,6 +51,7 @@ const notes = {
 
   ixiusProcopios: [
     { from: 'The Class of 2026', message: 'You did not just teach us a framework, you taught us how to think in components, in state, in systems. That shift in thinking has stuck with us way beyond the assignments.' },
+    { from: 'Rebecca Riffle', message: 'Thank you for demystifying modern frontend frameworks!' },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
