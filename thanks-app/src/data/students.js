@@ -26,7 +26,13 @@ const students = [
     photo: '/photos/students/rebeccariffle.jpg',
   },
   // Add yourself below this line ↓
-    {
+  {
+    name: 'Emily Menken',
+    blurb: 'Cohort 21 | Passionate about learning, animals, and creating things that enhance other people’s lives.',
+    linkedin: 'https://www.linkedin.com/in/emily-menken/',
+    photo: '/photos/students/EmilyMenken.jpg',
+  },
+  {
     name: 'Student Name',
     blurb: 'Your blurb here!',
     linkedin: '',
