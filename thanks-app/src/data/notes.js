@@ -48,6 +48,7 @@ const notes = {
   tinaOstrander: [
     { from: 'The Class of 2026', message: 'You changed how we look at a webpage. Now we notice when things are off, and we know how to fix them. That eye for design is something we will carry into every project we build.' },
     { from: 'Emily Menken', message: 'I really appreciate your kindness and the way you joke around with us, it makes learning so much more fun!' },
+    { from: 'Rebecca Riffle', message: 'Thank you for advocating for the peer tutors, and helping us help each other. I loved serving in your class as an embedded tutor!' },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
