@@ -55,20 +55,21 @@ const notes = {
 
   kellerFlint: [
     { from: 'The Class of 2026', message: 'AI and Machine Learning felt intimidating before your class. The way you broke things down and actually responded when we were stuck made all the difference. We felt supported the whole way through.' },
-    { from: 'Emily Menken', message: 'You teach hard topics with ease in a way that makes it feel easy- I dont think I would have learned about Neural Networks and ML nearly as fast if it werent for you!' },
+    { from: 'Emily Menken', message: 'You teach hard topics with ease in a way that makes it feel easy- I don't think I would have learned about Neural Networks and ML nearly as fast if it weren't for you!' },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
   tylerSchrock: [
     { from: 'The Class of 2026', message: 'You made us realize that being a good developer is only part of the job. Knowing how to show up, communicate, and work with people matters just as much. Thank you for teaching us that.' },
     { from: 'Emily Menken', message: 'Thank you for always giving such great advice, both during sprint plan reviews and just in general! Your positive energy is so refreshing!' },
-    { from: 'Rebecca Riffle', message: 'Thank you for going out of your way to drive Women in Tech and Board Masters to the STEM night at the elementary school. You are so supportive and kind!' },
+    { from: 'Rebecca Riffle', message: 'Thank you for encouraging us to reflect on how to be ethical developers!' },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
   susanUland: [
     { from: 'The Class of 2026', message: 'You never made us feel behind, even when the material was hard. Watching you stay curious and keep learning alongside us meant more than you probably know. Thank you for that.' },
     { from: 'Emily Menken', message: 'Im sure it mustve been a lot to deal with an online and in person class at the same time, but it never felt like us in the online class were being left behind or forgotten about- thank you for being so dedicated to your students, it means a lot to us!' },
+    { from: 'Rebecca Riffle', message: 'Thank you for going out of your way to drive Women in Tech and Board Masters to the STEM night at the elementary school. You are so supportive and kind!' },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 }
