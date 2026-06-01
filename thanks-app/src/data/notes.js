@@ -60,7 +60,7 @@ const notes = {
 
   kellerFlint: [
     { from: 'The Class of 2026', message: 'AI and Machine Learning felt intimidating before your class. The way you broke things down and actually responded when we were stuck made all the difference. We felt supported the whole way through.' },
-    { from: 'Emily Menken', message: 'You teach hard topics with ease in a way that makes it feel easy- I don't think I would have learned about Neural Networks and ML nearly as fast if it weren't for you!' },
+    { from: 'Emily Menken', message: "You teach hard topics with ease in a way that makes it feel easy - I don't think I would have learned about Neural Networks and ML nearly as fast if it weren't for you!" },
     { from: 'Rebecca Riffle', message: 'Thank you for making our learning journey a partnership. You really listen to feedback and are always willing to answer questions.' },// { from: 'Your Name', message: 'Your message here!' },
   ],
 
