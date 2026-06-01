@@ -17,20 +17,6 @@
 
 const notes = {
   joshArcher: [
-    { from: 'The Class of 2026', message: 'Thank you for everything!' },
-    { from: 'The Class of 2026', message: 'Thank you for everything!' },
-    { from: 'The Class of 2026', message: 'Thank you for everything!' },
-    { from: 'The Class of 2026', message: 'Thank you for everything!' },
-    { from: 'The Class of 2026', message: 'Thank you for everything!' },
-    { from: 'The Class of 2026', message: 'Thank you for everything!' },
-    { from: 'The Class of 2026', message: 'Thank you for everything!' },
-    { from: 'The Class of 2026', message: 'Thank you for everything!' },
-    { from: 'The Class of 2026', message: 'Thank you for everything!' },
-    { from: 'The Class of 2026', message: 'Thank you for everything!' },
-    { from: 'The Class of 2026', message: 'Thank you for everything!' },
-    { from: 'The Class of 2026', message: 'Thank you for everything!' },
-    { from: 'The Class of 2026', message: 'Thank you for everything!' },
-    { from: 'The Class of 2026', message: 'Thank you for everything!' },
     { from: 'The Class of 2026', message: 'Honestly, your class humbled us in the best way. You did not let us stay comfortable, and looking back, that was exactly what we needed. We think differently now because of you.' },
     { from: 'Rebecca Riffle', message: 'Thank you for supporting Board Masters as a club advisor!' },
     { from: 'Rebecca Riffle', message: 'Thank you for walking through the MVC framework over and over again until it finally clicked in!' },
