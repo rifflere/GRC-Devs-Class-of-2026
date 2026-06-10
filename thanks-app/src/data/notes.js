@@ -66,6 +66,7 @@ const notes = {
     { from: 'The Class of 2026', message: 'You never made us feel behind, even when the material was hard. Watching you stay curious and keep learning alongside us meant more than you probably know. Thank you for that.' },
     { from: 'Emily Menken', message: 'Im sure it mustve been a lot to deal with an online and in person class at the same time, but it never felt like us in the online class were being left behind or forgotten about- thank you for being so dedicated to your students, it means a lot to us!' },
     { from: 'Rebecca Riffle', message: 'Thank you for going out of your way to drive Women in Tech and Board Masters to the STEM night at the elementary school. You are so supportive and kind!' },
+    { from: 'Brady Leggett', message: 'Even though most your classes were online, I always had a good time working on your assignments. See ya!' },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 }
