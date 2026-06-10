@@ -33,10 +33,10 @@ const students = [
     photo: '/photos/students/EmilyMenken.jpg',
   },
   {
-    name: 'Student Name',
-    blurb: 'Your blurb here!',
-    linkedin: '',
-    photo: null,
+    name: 'Brady Leggett',
+    blurb: 'Cohort 21 | Excited to learn new skills and wanting to build tools that make the world a better place.',
+    linkedin: 'https://www.linkedin.com/in/brady-leggett-107130293/',
+    photo: '/photos/students/BradyLeggett.jpg',
   },
 ]
 
