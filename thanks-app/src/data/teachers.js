@@ -5,7 +5,7 @@ const teachers = [
     subject: 'Software Development | Server-Side Web Development',
     skills: ['MVC Framework', 'Express', 'REST APIs', 'Pug Templating', 'Authentication'],
     linkedin: 'https://www.linkedin.com/in/josh-archer-797635102/',
-    photo: null,
+    photo: "photos/teachers/JoshArcher.jfif",
     thankYou: 'Thank you for pushing us to think bigger about scalable systems, elegant design, and what it really means to grow as a developer. Your class required extra coffee, but every cup was worth it.',
   },
   {
@@ -14,7 +14,7 @@ const teachers = [
     subject: 'Software Development | Systems Programming | Data Structures | Algorithms',
     linkedin: 'https://www.linkedin.com/in/auberon-lopez/',
     skills: ['Data Structures', 'Algorithms', 'Systems Programming', 'Problem-Solving', 'Technical Communication'],
-    photo: null,
+    photo: "photos/teachers/AuberonLópez.jfif",
     thankYou: 'Thank you for bringing the best kind of nerdy energy to data structures and algorithms. Your creativity and genuine joy for the subject made even the toughest concepts feel like an adventure worth going on.',
   },
   {
@@ -23,7 +23,7 @@ const teachers = [
     subject: 'Software Development | Web Development Frameworks | Senior Capstone',
     skills: ['HTML/CSS', 'Responsive Design', 'UI/UX Principles', 'Web Development Frameworks', 'Agile Metholodologies'],
     linkedin: 'https://www.linkedin.com/in/tinaostrander/',
-    photo: null,
+    photo: "photos/teachers/TinaOstrander.jfif",
     thankYou: 'Thank you for grounding us in modern web development with such a clear eye for design. You gave us not just the skills, but the sensibility to build things that are both functional and beautiful.',
   },
   {
@@ -32,7 +32,7 @@ const teachers = [
     subject: 'Software Development | Full Stack Web Development',
     skills: ['React', 'Component-Based Architecture', 'State Management', 'Frontend Development'],
     linkedin: 'https://www.linkedin.com/in/ix-procopios/',
-    photo: null,
+    photo: "photos/teachers/IxiusProcopios.jfif",
     thankYou: 'Thank you for introducing us to modern frontend frameworks and for your dedication to helping us learn and grow as developers. We appreciate your creativity and your willingness to share your knowledge and experience with us.',
   },
   {
@@ -41,7 +41,7 @@ const teachers = [
     subject: 'Software Development | Cloud Application Deployment | Applied AI | Senior Capstone',
     skills: ['AI Fundamentals', 'Machine Learning', 'SQL', 'Cloud Deployment', 'Digital Ocean'],
     linkedin: 'https://www.linkedin.com/in/kellerflint/',
-    photo: null,
+    photo: "photos/teachers/KellerFlint.jfif",
     thankYou: 'Thank you for your clear, responsive teaching across AI, Machine Learning, SQL, and Senior Capstone. Your online lessons are some of the best we have experienced, well-structured, engaging, and always there when we needed them.',
   },
   {
@@ -50,16 +50,16 @@ const teachers = [
     subject: 'Software Development | Senior Capstone',
     skills: ['Agile Methodologies', 'Project Management', 'Team Communication', 'Professionalism', 'Client Relations'],
     linkedin: 'https://www.linkedin.com/in/tylerdschrock/',
-    photo: null,
+    photo: "photos/teachers/TylerSchrock.jfif",
     thankYou: 'Thank you for making Senior Capstone, Professionalism, and Modern Client Relations feel approachable and real-world relevant. Your friendly presence made it easy to ask questions and grow with confidence.',
   },
   {
     id: 'susanUland',
     name: 'Susan Uland',
     subject: 'Software Development | AI/ML Fundamentals',
-    skills: ['Colab Notebooks', 'Python', 'Pandas','AI/ML Concepts', 'Data Analysis', 'Growth Mindset'],
+    skills: ['Colab Notebooks', 'Python', 'Pandas', 'AI/ML Concepts', 'Data Analysis', 'Growth Mindset'],
     linkedin: 'https://www.linkedin.com/in/susan-uland-6b319939/',
-    photo: null,
+    photo: "photos/teachers/SusanUland.jfif",
     thankYou: 'Thank you for your compassion and kindness in guiding us through Machine Learning fundamentals. You modeled what it looks like to stay curious and embrace a growth mindset, and that is a lesson that goes far beyond any curriculum.',
   },
 ]
