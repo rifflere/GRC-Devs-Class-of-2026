@@ -38,6 +38,12 @@ const students = [
     linkedin: 'https://www.linkedin.com/in/brady-leggett-107130293/',
     photo: '/photos/students/BradyLeggett.jpg',
   },
+  {
+    name: 'Tim Williams',
+    blurb: 'Cohort 21 | Enjoy watching movies, spending time with family, and learning more about Software',
+    linkedin: 'https://www.linkedin.com/in/timothy-williams-hire/',
+    photo: '/photos/students/TimWilliams.jpg',
+  }
 ]
 
 export default students
