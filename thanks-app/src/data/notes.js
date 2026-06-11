@@ -31,6 +31,7 @@ const notes = {
     { from: 'Rebecca Riffle', message: 'So long, and thanks for all the ducks! 🦆' },
     { from: 'Brady Leggett', message: 'We had a good 4 quaters together in row, all of which I enjoyed. You always had cool projects for us to work on and made every class fun. I hope that the legend of "Miku Guy" continues as it means I made an impact however big or small! See ya around!' },
     { from: 'Tim Williams', message: 'The classes you taught were well thought out and helped me stay on track very well. I enjoyed all the projects we spent time learning and doing.' },
+    { from: 'Diana Khachaturova', message: 'Cool Momonga!!!!!!!!!! Enjoyed the time we had together in class, I miss Salamanders.' },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
