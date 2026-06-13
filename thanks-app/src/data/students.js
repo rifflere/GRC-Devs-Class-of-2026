@@ -43,6 +43,12 @@ const students = [
     blurb: 'Cohort 21 | Enjoy watching movies, spending time with family, and learning more about Software',
     linkedin: 'https://www.linkedin.com/in/timothy-williams-hire/',
     photo: '/photos/students/TimWilliams.jpg',
+  },
+  {
+    name: 'Abdirashid Ahmed',
+    blurb: 'Cohort 21 | At home refactoring code at 2am or getting lost in a city where no one speaks my language.',
+    linkedin: 'https://www.linkedin.com/in/abdirashid1',
+    photo: '/photos/students/abdirashidAhmed.jpg'
   }
 ]
 

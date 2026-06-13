@@ -21,6 +21,7 @@ const notes = {
     { from: 'Rebecca Riffle', message: 'Thank you for supporting Board Masters as a club advisor!' },
     { from: 'Rebecca Riffle', message: 'Thank you for walking through the MVC framework over and over again until it finally clicked in!' },
     { from: 'Tim Williams', message: 'Your class was challenging and pushed me to learn and do more, I still use the reinforcement tactics I learned from your class.' },
+    { from: 'Abdirashid Ahmed', message: "Your class opened up so many new concepts to my world of programming, it's genuinely unreal. Teachers can make or break a subject, and you kept JavaScript one of my favorites even after the new complex topics which says a lot about your style and openness. Thank you, Josh!" },
     // Add your note below this line ↓
   ],
 
@@ -32,6 +33,7 @@ const notes = {
     { from: 'Brady Leggett', message: 'We had a good 4 quaters together in row, all of which I enjoyed. You always had cool projects for us to work on and made every class fun. I hope that the legend of "Miku Guy" continues as it means I made an impact however big or small! See ya around!' },
     { from: 'Tim Williams', message: 'The classes you taught were well thought out and helped me stay on track very well. I enjoyed all the projects we spent time learning and doing.' },
     { from: 'Diana Khachaturova', message: 'Cool Momonga!!!!!!!!!! Enjoyed the time we had together in class, I miss Salamanders.' },
+    { from: 'Abdirashid Ahmed', message: "You taught some of the most essential computer science topics in ridiculously simple ways and I always walked away knowing more! Your energy and unique lesson plans made learning genuinely fun. Your openness made introverts like me comfortable enough to ask questions. Thank you, Auberon!" },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
@@ -41,6 +43,7 @@ const notes = {
     { from: 'Rebecca Riffle', message: 'Thank you for advocating for the peer tutors, and helping us help each other. I loved serving in your class as an embedded tutor!' },
     { from: 'Brady Leggett', message: "I hope that the project that me and my team mates made is useful to you. Even if it's not perfect, I do hope that it improves and becomes something amazing. I still have all the rubber ducks that you gave me. See ya!" },
     { from: 'Tim Williams', message: 'The effort you put into your classes was wonderful and noticeable, the structure helped me stay involved very well' },
+    { from: 'Abdirashid Ahmed', message: "Any class I've taken with you was always a blast! Your push for peer collaboration and presentations helped me grow in ways I can’t describe in a thank you note. It's clear you want what's best for your students. Thank you, Tina!" },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
@@ -56,6 +59,7 @@ const notes = {
     { from: 'Rebecca Riffle', message: 'Thank you for making our learning journey a partnership. You really listen to feedback and are always willing to answer questions.' },
     { from: 'Brady Leggett', message: 'Thanks for teaching the diffcult subjects. Even though not everything may have gone to plan, you always seemed to come up with an alternative solution or give us more time to make sure we understand the topics. See ya!' },
     { from: 'Tim Williams', message: 'Thank you for all your hardwork and time, every class felt like you cared and wanted us to walk out of the class with more than we had entered with.' },
+    { from: 'Abdirashid Ahmed', message: "Your depth of knowledge in AI, machine learning, and tech overall is always inspiring! You struck the perfect balance between being an instructor/mentor and being approachable enough to talk to like a peer. You’re one of the only professors whose presentations I've actually downloaded to keep. You reinforced my love for learning. Thank you, Keller!" },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
@@ -65,6 +69,8 @@ const notes = {
     { from: 'Rebecca Riffle', message: 'Thank you for encouraging us to reflect on how to be ethical developers!' },
     { from: 'Brady Leggett', message: 'Despite our time together being short, you always were supportive and understanding. See ya around!' },
     { from: 'Tim Williams', message: 'Your advice was well received and always helped us view at different angles.' },
+    { from: 'Abdirashid Ahmed', message: "I've taken a few of your classes online but seeing you in person confirmed that online doesn't do teachers justice! The joy and passion you bring to class is so apparent. You reassure me that if I ever become a teacher, I'd steal some of your qualities. Thank you, Tyler!" },
+
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
@@ -74,6 +80,7 @@ const notes = {
     { from: 'Rebecca Riffle', message: 'Thank you for going out of your way to drive Women in Tech and Board Masters to the STEM night at the elementary school. You are so supportive and kind!' },
     { from: 'Brady Leggett', message: 'Even though most your classes were online, I always had a good time working on your assignments. See ya!' },
     { from: 'Tim Williams', message: 'Your class was fun and introduced us to AI concepts, looking back I appreciate the way we were introduced to Machine Learning.' },
+    { from: 'Abdirashid Ahmed', message: "Teaching online can feel like talking to a brick wall, but I noticed and appreciated every thoughtful comment on my Loom videos and feedback on my assignments, like when I may have misunderstood a core machine learning concept. Thank you, Susan! P.S. The donuts on exam days were amazing!" },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 }
