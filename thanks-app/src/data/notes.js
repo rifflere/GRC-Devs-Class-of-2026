@@ -87,6 +87,10 @@ const notes = {
       from: 'Anonymous',
       message: "Express was the first time I felt like a real backend dev. Appreciate everything, Josh.",
     },
+    {
+      from: "Ash Gray",
+      message: "Thank you for giving us interesting projects and taking the time to show concepts in class in a helpful and interesting way.",
+    },
   ],
 
   auberonLópez: [
@@ -180,6 +184,10 @@ const notes = {
       from: 'Anonymous',
       message: "You made it feel okay to be curious. Some of my favorite moments in the program started with a random question that turned into a whole discussion. Thanks for the interesting book recommendations!",
     },
+    {
+      from: 'Ash Gray',
+      message: "Thank you for your kindness and listening to me when I needed it. Also for the practice on doing so many interviews.",
+    },
   ],
 
   tinaOstrander: [
@@ -262,6 +270,10 @@ const notes = {
     {
       from: 'Anonymous',
       message: "Thanks for believing in us!",
+    },
+    {
+      from: 'Ash Gray',
+      message: "Thank you for always challenging me to do better.",
     },
   ],
 
@@ -385,6 +397,10 @@ const notes = {
       from: 'Anonymous',
       message: "Your enthusiasm for learning is contagious. It reminded me that software development is a field where curiosity really matters.",
     },
+    {
+      from: 'Ash Gray',
+      message: "Thank you for showing everyone so many interesting new things.",
+    },
   ],
 
   tylerSchrock: [
@@ -463,6 +479,10 @@ const notes = {
       from: 'Anonymous',
       message: "The business and career advice was exactly what I needed before heading into industry. Also, disc golf, respect.",
     },
+    {
+      from: 'Ash Gray',
+      message: "Thank you for listening to my concerns and seeing my efforts to do better.",
+    },
   ],
 
   susanUland: [
@@ -537,6 +557,10 @@ const notes = {
     {
       from: 'Anonymous',
       message: "Thanks for the donuts <3",
+    },
+    {
+      from: 'Ash Gray',
+      message: "Susan, you were the person that taught me to do so much that I didn't think I could, and believe that I could go this far. Thank you for everything.",
     },
   ],
 };
