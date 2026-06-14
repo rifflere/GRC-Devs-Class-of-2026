@@ -18,11 +18,6 @@
 const notes = {
   joshArcher: [
     {
-      from: "The Class of 2026",
-      message:
-        "Honestly, your class humbled us in the best way. You did not let us stay comfortable, and looking back, that was exactly what we needed. We think differently now because of you.",
-    },
-    {
       from: "Rebecca Riffle",
       message: "Thank you for supporting Board Masters as a club advisor!",
     },
@@ -66,7 +61,6 @@ const notes = {
       message:
         "I loved the energy you brought to class and how you adopted new technologies, even though as a class we got practice troubleshooting. But the experience made it more insightful and fun. Especially when it came to our own issues within the projects you assigned us.",
     },
-    // Add your note below this line ↓
     {
       from: "Raymond Marx",
       message:
@@ -84,14 +78,9 @@ const notes = {
 
   auberonLópez: [
     {
-      from: "The Class of 2026",
-      message:
-        "There is something special about a teacher who is clearly having as much fun as you are. Algorithms felt less like a chore and more like a puzzle we actually wanted to solve. That is all you.",
-    },
-    {
       from: "Rebecca Riffle",
       message:
-        "Thanks for taking the time to review fundamental trigonometry with me, just to help me understand how to animate the moon going around the earth. I appreciate how you always make time for your students!",
+        "Thanks for taking the time to review SOHCAHTOA with me, just to help me understand how to animate the moon going around the earth. I appreciate how you always make time for your students!",
     },
     {
       from: "Emily Menken",
