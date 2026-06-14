@@ -52,7 +52,7 @@ export default function TeacherPage({ teacher, notes }) {
 
       <div className="sticky-wall-section">
         <h3>Notes from the Class of 2026</h3>
-        <StickyWall notes={notes} />
+        <StickyWall key={teacher.id} notes={notes} />
       </div>
     </div>
   )
