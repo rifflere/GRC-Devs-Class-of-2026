@@ -37,6 +37,7 @@ const notes = {
     { from: 'Diana Khachaturova', message: 'Cool Momonga!!!!!!!!!! Enjoyed the time we had together in class, I miss Salamanders.' },
     { from: 'Abdirashid Ahmed', message: "You taught some of the most essential computer science topics in ridiculously simple ways and I always walked away knowing more! Your energy and unique lesson plans made learning genuinely fun. Your openness made introverts like me comfortable enough to ask questions. Thank you, Auberon!" },
     { from: 'Tav Singh', message: "It made me incredibly sad for the last year of this program that I would have no more classes with you. You are an incredible educator, and I am honored to have been your student. You have made me a better programmer and I thank you for all of the support and advice!" },
+    { from: 'Tia Marie Gordon', message: "Thank you for being such an amazing professor! I learned so much from every class I had with you and wish we could have had you for one last year. I still have my unicorn duck and use it frequently. Future cohorts are so lucky to have you. I'll make sure to set aside time to stop by!" },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
