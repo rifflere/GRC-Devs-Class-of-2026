@@ -29,7 +29,7 @@ const notes = {
     {
       from: "Rebecca Riffle",
       message:
-        "I respect that you challenged us not as studentes but as future developers, you believed that we could do hard things, and you convinced us to believe it too.",
+        "I respect that you challenged us not as students but as future developers, you believed that we could do hard things, and you convinced us to believe it too.",
     },
     {
       from: "Tim Williams",
@@ -112,7 +112,7 @@ const notes = {
     {
       from: "Brady Leggett",
       message:
-        'We had a good 4 quaters together in row, all of which I enjoyed. You always had cool projects for us to work on and made every class fun. I hope that the legend of "Miku Guy" continues as it means I made an impact however big or small! See ya around!',
+        'We had a good 4 quarters together in row, all of which I enjoyed. You always had cool projects for us to work on and made every class fun. I hope that the legend of "Miku Guy" continues as it means I made an impact however big or small! See ya around!',
     },
     {
       from: "Tim Williams",
@@ -152,7 +152,7 @@ const notes = {
     {
       from: "Niko Butenko",
       message:
-        "It is still strange to hear that you are still a new professor, as I genuinely feel as though I felt the most excited for your lectures. Green River is genuinely lucky to have you. Breathing in life with a fresh perspective and having genuinely unique problems to solve was what gave me the confidence to keep learning and potentially persuing a masters.",
+        "It is still strange to hear that you are still a new professor, as I genuinely feel as though I felt the most excited for your lectures. Green River is genuinely lucky to have you. Breathing in life with a fresh perspective and having genuinely unique problems to solve was what gave me the confidence to keep learning and potentially pursuing a masters.",
     },
     {
       from: "Daniel Mamani",
@@ -162,7 +162,7 @@ const notes = {
     {
       from: "Raymond Marx",
       message:
-        "It was always exciting and fun getting to explore my interests with you that were beyond what was required of the cirriculum. I look forward to sharing more ideas with you one day!"
+        "It was always exciting and fun getting to explore my interests with you that were beyond what was required of the curriculum. I look forward to sharing more ideas with you one day!"
     },
     { 
       from: 'Augy Markham', 
@@ -170,7 +170,7 @@ const notes = {
     },
     { 
       from: 'RJ Fredrick Rico', 
-      message: "Auberon, getting back into Java after a year break was really nerve-wrecking, but with your coursework, class structure, and easy-to-understand analogies, it felt like light work. Thank you so much for making the class feel like a 1-on-1 experience and committing so much time and effort into your lectures and assignments that I can say without a shadow of doubt, have thoroughly enjoyed throughout the IT program here at GRC. I will make sure to keep those ducks you gave to us for the entirety of my SDEV career!"
+      message: "Auberon, getting back into Java after a year break was really nerve-wracking, but with your coursework, class structure, and easy-to-understand analogies, it felt like light work. Thank you so much for making the class feel like a 1-on-1 experience and committing so much time and effort into your lectures and assignments that I can say without a shadow of doubt, have thoroughly enjoyed throughout the IT program here at GRC. I will make sure to keep those ducks you gave to us for the entirety of my SDEV career!"
     },
     {
       from: 'Alex Ruban',
@@ -236,7 +236,7 @@ const notes = {
     {
       from: "Daniel Mamani",
       message:
-        "Your feedback was the most agressive I have ever received, compared to my public professors. But it was quite insightful, after all you are trying to grill us with care, and I appreciate that.",
+        "Your feedback was the most aggressive I have ever received, compared to my public professors. But it was quite insightful, after all you are trying to grill us with care, and I appreciate that.",
     },
     {
       from: "Raymond Marx",
@@ -358,7 +358,7 @@ const notes = {
     {
       from: "Daniel Mamani",
       message:
-        "I must admit, I enjoyed that you took sometime unconventional approaches to the tools we could use, and that you were accepting of AI, while focusing on making sure we understood the core concepts. I especially enojoyed the CI/CD assignment with OrangePi, as it was fun to set it up and see how deploying to a server works at the local setup level with concept that can translate to the cloud.",
+        "I must admit, I enjoyed that you took sometime unconventional approaches to the tools we could use, and that you were accepting of AI, while focusing on making sure we understood the core concepts. I especially enjoyed the CI/CD assignment with OrangePi, as it was fun to set it up and see how deploying to a server works at the local setup level with concept that can translate to the cloud.",
     },
     {
       from: "Raymond Marx",
@@ -440,12 +440,12 @@ const notes = {
     {
       from: "Niko Butenko",
       message:
-        "Unfortunately I've not had any other classes with you, and my only experince with you has been the Capstone of which I've already had alot of momentum on, so never really had an opportunity to speak. From what I've interacted with you, though, I can tell you are genuinely impassioned and want to see the best in people.",
+        "Unfortunately I've not had any other classes with you, and my only experience with you has been the Capstone of which I've already had alot of momentum on, so never really had an opportunity to speak. From what I've interacted with you, though, I can tell you are genuinely impassioned and want to see the best in people.",
     },
     {
       from: "Raymond Marx",
       message:
-        "I only had SDEV 106 with you in winter quarter 2023, and now SDEV 486, with you this spring quarter, however you provided us with a lot of resources during this last quarter, helped us reach the finish line, and gave very important perspectives beyond just softare development like business and ethics perspectives, which I seriously appreciate and believe anyone could use when entering the industry."
+        "I only had SDEV 106 with you in winter quarter 2023, and now SDEV 486, with you this spring quarter, however you provided us with a lot of resources during this last quarter, helped us reach the finish line, and gave very important perspectives beyond just software development like business and ethics perspectives, which I seriously appreciate and believe anyone could use when entering the industry."
     },
     { 
       from: 'Augy Markham', 
@@ -509,7 +509,7 @@ const notes = {
     {
       from: "Liza Khrapach",
       message:
-        "You were always so supportive, and you truly care about your students and their success! You care to such an extent that you even brought doughnuts during exams for us a couple of times, haha. Thank you so much for everything, Suzan, and I wish you the best!",
+        "You were always so supportive, and you truly care about your students and their success! You care to such an extent that you even brought doughnuts during exams for us a couple of times, haha. Thank you so much for everything, Susan, and I wish you the best!",
     },
     {
       from: "Xavier Bradley",
@@ -524,11 +524,11 @@ const notes = {
     {
       from: "Raymond Marx",
       message:
-        "There were quite a few times during the program when I was stressed, and the pacing of your courses allowed me to slow down and take a breather. Your lessons in python and data anayltics (especially the data flow/pipeline skills) are becoming increasingly valuable as I come across new ideas and problems."
+        "There were quite a few times during the program when I was stressed, and the pacing of your courses allowed me to slow down and take a breather. Your lessons in python and data analytics (especially the data flow/pipeline skills) are becoming increasingly valuable as I come across new ideas and problems."
     },
     { 
       from: 'Augy Markham', 
-      message: "You're so awesome, Susan. You're classes were so chill and an amazing change of pace from our other classes. You never made us feel dumb, and worked with us even when we were so so confused. Thank you for your unending patience!"
+      message: "You're so awesome, Susan. Your classes were so chill and an amazing change of pace from our other classes. You never made us feel dumb, and worked with us even when we were so so confused. Thank you for your unending patience!"
     },
     {
       from: 'Alex Ruban',
