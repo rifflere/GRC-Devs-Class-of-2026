@@ -27,6 +27,11 @@ const notes = {
         "Thank you for walking through the MVC framework over and over again until it finally clicked in!",
     },
     {
+      from: "Rebecca Riffle",
+      message:
+        "I respect that you challenged us not as studentes but as future developers, you believed that we could do hard things, and you convinced us to believe it too.",
+    },
+    {
       from: "Tim Williams",
       message:
         "Your class was challenging and pushed me to learn and do more, I still use the reinforcement tactics I learned from your class.",
@@ -74,13 +79,26 @@ const notes = {
       from: 'Alex Ruban',
       message: "Your classes were always great and covered topics that helped me grow as a developer. You taught solid practices that I still use today, and you were always willing to have a side conversation or answer questions. Thank you for everything, Josh!",
     },
+    {
+      from: 'Anonymous',
+      message: "You walked us through MVC like a hundred times until it stuck, and now I use it on basically every project.",
+    },
+    {
+      from: 'Anonymous',
+      message: "Express was the first time I felt like a real backend dev. Appreciate everything, Josh.",
+    },
   ],
 
   auberonLópez: [
     {
       from: "Rebecca Riffle",
       message:
-        "Thanks for taking the time to review SOHCAHTOA with me, just to help me understand how to animate the moon going around the earth. I appreciate how you always make time for your students!",
+        "Despite being very busy developing engaging curriculum, you always make time to support your students, and we notice. Once you taught me a whole mini trigonometry lesson on SOHCAHTOA just to help me animate a moon going around a planet. That is the kind of dedication that makes you an unforgettable teacher.",
+    },
+    {
+      from: "Rebecca Riffle",
+      message:
+        "From Ramblebot to Screwtape to the Salamander Tracker collaboration with researchers at OSU, every project you gave us was relevant, impactful, and unforgettable.",
     },
     {
       from: "Emily Menken",
@@ -141,7 +159,6 @@ const notes = {
       message:
         "I enjoyed the projects you gave, as it gave us the flexiblity to explore options instead on being constrained to a speciific method. I also hope Frito is doing well, after all we quite the fluff ball",
     },
-    // { from: 'Your Name', message: 'Your message here!' },
     {
       from: "Raymond Marx",
       message:
@@ -159,14 +176,13 @@ const notes = {
       from: 'Alex Ruban',
       message: "Thank you for always being a fun teacher with the whiteboards and ducks while still making complex topics easy to understand. You helped me immensely with algorithms and data structures, as well as preparing for technical interviews and getting serious about LeetCode. Thank you for all the knowledge and support throughout the program.",
     },
+    {
+      from: 'Anonymous',
+      message: "You made it feel okay to be curious. Some of my favorite moments in the program started with a random question that turned into a whole discussion. Thanks for the interesting book recommendations!",
+    },
   ],
 
   tinaOstrander: [
-    {
-      from: "The Class of 2026",
-      message:
-        "You changed how we look at a webpage. Now we notice when things are off, and we know how to fix them. That eye for design is something we will carry into every project we build.",
-    },
     {
       from: "Emily Menken",
       message:
@@ -176,6 +192,11 @@ const notes = {
       from: "Rebecca Riffle",
       message:
         "Thank you for advocating for the peer tutors, and helping us help each other. I loved serving in your class as an embedded tutor!",
+    },
+    {
+      from: "Rebecca Riffle",
+      message:
+        "You taught our first class and our last class, and you bookended our experience with your kindness, humor, and support. Thank you for being there for us every step of the way!",
     },
     {
       from: "Brady Leggett",
@@ -217,7 +238,6 @@ const notes = {
       message:
         "Your feedback was the most agressive I have ever received, compared to my public professors. But it was quite insightful, after all you are trying to grill us with care, and I appreciate that.",
     },
-    // { from: 'Your Name', message: 'Your message here!' },
     {
       from: "Raymond Marx",
       message:
@@ -235,6 +255,14 @@ const notes = {
       from: 'Alex Ruban',
       message: "Thank you for being a great teacher with all your kindness, honesty, and humor. You taught us valuable web development skills and guided a great capstone experience, always willing to step in and help when needed. Thank you for giving us the opportunity to work on multiple real-world projects and helping us finish our degree strong.",
     },
+    {
+      from: 'Anonymous',
+      message: "Capstone could've been total chaos, but you kept us on track. Thanks for caring about how we turn out and not just the grade.",
+    },
+    {
+      from: 'Anonymous',
+      message: "Thanks for believing in us!",
+    },
   ],
 
   ixiusProcopios: [
@@ -245,14 +273,13 @@ const notes = {
     },
     {
       from: "Rebecca Riffle",
-      message: "Thank you for demystifying modern frontend frameworks!",
+      message: "Thank you for demystifying modern frontend frameworks! You seriously transformed the way I think about building web applications, and I am so grateful for your clear explanations and engaging lessons.",
     },
     {
       from: "Tav Singh",
       message:
         "I wished you had taught more classes, you made understanding react a breeze and you made so many topics easy to understand!",
     },
-    // { from: 'Your Name', message: 'Your message here!' },
     {
       from: "Raymond Marx",
       message:
@@ -265,6 +292,10 @@ const notes = {
     {
       from: 'Alex Ruban',
       message: "Thank you very much for being such a great person, making our classes fun, and helping all of us immensely better understand React. You took it from being something completely foreign to us to something we can now use almost blindfolded. Thank you for all the knowledge and for making such a challenging topic approachable and enjoyable to learn.",
+    },
+    {
+      from: 'Anonymous',
+      message: "Wish we'd had more classes with you! You made React so approachable and fun to learn.",
     },
   ],
 
@@ -282,7 +313,12 @@ const notes = {
     {
       from: "Rebecca Riffle",
       message:
-        "Thank you for making our learning journey a partnership. You really listen to feedback and are always willing to answer questions.",
+        "Thank you for making our learning journey a partnership. You genuinely listen to feedback and are always willing to answer questions.",
+    },
+    {
+      from: "Rebecca Riffle",
+      message:
+        "As a former teacher, your online learning modules are some of the best I've ever seen. They are clear, engaging, and well-structured. Thank you for putting so much effort into making sure we had the resources we needed to succeed.",
     },
     {
       from: "Brady Leggett",
@@ -324,7 +360,6 @@ const notes = {
       message:
         "I must admit, I enjoyed that you took sometime unconventional approaches to the tools we could use, and that you were accepting of AI, while focusing on making sure we understood the core concepts. I especially enojoyed the CI/CD assignment with OrangePi, as it was fun to set it up and see how deploying to a server works at the local setup level with concept that can translate to the cloud.",
     },
-    // { from: 'Your Name', message: 'Your message here!' },
     {
       from: "Raymond Marx",
       message:
@@ -341,6 +376,14 @@ const notes = {
     {
       from: 'Alex Ruban',
       message: "Thank you so much for being a great and incredibly knowledgeable professor who always wanted us to succeed and made difficult topics easy to understand. Your classes on SQL, AI and machine learning, hosting, and cloud deployment helped expand my understanding of software engineering in a huge way. I always appreciated how approachable you were, your willingness to answer questions and have side conversations, and the passion you brought to teaching. One of my favorite parts of your classes was the one-on-one midterms and finals because they felt focused on actually learning the material rather than just passing an exam. Thank you as well for helping Tina teach the first capstone class and keeping us on track throughout the process. Thank you for everything, Keller.",
+    },
+    {
+      from: 'Anonymous',
+      message: "You demystified deployment for me. I used to dread it and now it's one of my favorite parts.",
+    },
+    {
+      from: 'Anonymous',
+      message: "Your enthusiasm for learning is contagious. It reminded me that software development is a field where curiosity really matters.",
     },
   ],
 
@@ -359,6 +402,10 @@ const notes = {
       from: "Rebecca Riffle",
       message:
         "Thank you for encouraging us to reflect on how to be ethical developers!",
+    },
+    {
+      from: "Rebecca Riffle",
+      message: "You were one of my first instructors at Green River, teaching HTML and CSS. I gave birth to my kid ten days before finals, in 2023, and I still remember emailing you from the NICU while finishing my final project. What has always stood out to me is your humanity. You care about your students, hold us accountable, and always seem to find the right balance between support and expectation. Thank you for being such a positive influence throughout the program, Tyler.",
     },
     {
       from: "Brady Leggett",
@@ -395,7 +442,6 @@ const notes = {
       message:
         "Unfortunately I've not had any other classes with you, and my only experince with you has been the Capstone of which I've already had alot of momentum on, so never really had an opportunity to speak. From what I've interacted with you, though, I can tell you are genuinely impassioned and want to see the best in people.",
     },
-    // { from: 'Your Name', message: 'Your message here!' },
     {
       from: "Raymond Marx",
       message:
@@ -413,6 +459,10 @@ const notes = {
       from: 'Alex Ruban',
       message: "Thank you for teaching the second half of capstone alongside Tina. Even though this was my only class with you, I really appreciated everything you did for us. Thank you for all the great conversations, the wisdom you shared about the future, and even the off-topic discussions that always made class more enjoyable. You were always supportive, genuinely wanted us to improve, and were willing to share what has helped you throughout your own career and experiences. Thank you as well for helping keep us accountable with our projects and pushing us to do our best. I'll also be looking into disc golf, so thank you for introducing me to that too!",
     },
+    {
+      from: 'Anonymous',
+      message: "The business and career advice was exactly what I needed before heading into industry. Also, disc golf, respect.",
+    },
   ],
 
   susanUland: [
@@ -429,7 +479,12 @@ const notes = {
     {
       from: "Rebecca Riffle",
       message:
-        "Thank you for going out of your way to drive Women in Tech and Board Masters to the STEM night at the elementary school. You are so supportive and kind!",
+        "Thank you for going out of your way to drive Women in Tech and Board Masters to the STEM night at the elementary school. You go above and beyond, and you show up for your students!",
+    },
+    {
+      from: "Rebecca Riffle",
+      message:
+        'I am so grateful you came to teach one of my final courses in person. I would sit in the front row and tilt my head in confusion at the mathematical concepts I was rusty on, and you always stopped to make sure we were all on the same page. You never made anyone feel dumb for not getting it. You met the hard stuff with a contagious joy and a real growth mindset, saying "let's look this up together" and adding simpler examples when the material got tough. I always looked forward to your class. Thank you for teaching us such advanced things with so much kindness and patience.',
     },
     {
       from: "Brady Leggett",
@@ -466,7 +521,6 @@ const notes = {
       message:
         "I only had the one class with you, and it was a shame that I took the online version because I only heard good things from the in-person people!!!",
     },
-    // { from: 'Your Name', message: 'Your message here!' },
     {
       from: "Raymond Marx",
       message:
@@ -479,6 +533,10 @@ const notes = {
     {
       from: 'Alex Ruban',
       message: "Thank you for always being so kind and supportive and for going out of your way to make sure we succeeded and learned what we needed to. I enjoyed all of the courses I took with you, from the fundamentals classes to data analytics, and especially the AI and Machine Learning course. I thoroughly enjoyed taking that class in person and am very glad I had the opportunity to learn from you. Thank you for all of your encouragement, support, and dedication to helping your students succeed.",
+    },
+    {
+      from: 'Anonymous',
+      message: "Thanks for the donuts <3",
     },
   ],
 };
