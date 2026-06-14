@@ -93,6 +93,7 @@ const notes = {
     { from: 'Tim Williams', message: 'Your class was fun and introduced us to AI concepts, looking back I appreciate the way we were introduced to Machine Learning.' },
     { from: 'Abdirashid Ahmed', message: "Teaching online can feel like talking to a brick wall, but I noticed and appreciated every thoughtful comment on my Loom videos and feedback on my assignments, like when I may have misunderstood a core machine learning concept. Thank you, Susan! P.S. The donuts on exam days were amazing!" },
     { from: 'Tav Singh', message: "Thank you for introducing such a complex topic like AI, it had been a journey learning these topics and you made it easier!" },
+    { from: 'Liza Khrapach', message: "You were always so supportive, and you truly care about your students and their success! You care to such an extent that you even brought doughnuts during exams for us a couple of times, haha. Thank you so much for everything, Suzan, and I wish you the best!" },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 }
