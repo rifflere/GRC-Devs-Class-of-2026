@@ -484,7 +484,7 @@ const notes = {
     {
       from: "Rebecca Riffle",
       message:
-        'I am so grateful you came to teach one of my final courses in person. I would sit in the front row and tilt my head in confusion at the mathematical concepts I was rusty on, and you always stopped to make sure we were all on the same page. You never made anyone feel dumb for not getting it. You met the hard stuff with a contagious joy and a real growth mindset, saying "let's look this up together" and adding simpler examples when the material got tough. I always looked forward to your class. Thank you for teaching us such advanced things with so much kindness and patience.',
+        'I am so grateful you came to teach one of my final courses in person. I would sit in the front row and tilt my head in confusion at the mathematical concepts I was rusty on, and you always stopped to make sure we were all on the same page. You never made anyone feel dumb for not getting it. You met the hard stuff with a contagious joy and a real growth mindset, saying "let\'s look this up together" and adding simpler examples when the material got tough. I always looked forward to your class. Thank you for teaching us such advanced things with so much kindness and patience.',
     },
     {
       from: "Brady Leggett",
