@@ -61,6 +61,11 @@ const notes = {
       message:
         "I enjoyed that your class was one of the first classes that we really began to explore larger repos, laying out our own larger projects, and understanding the root of each thing we were learning.",
     },
+    {
+      from: "Daniel Mamani",
+      message:
+        "I loved the energy you brought to class and how you adopted new technologies, even though as a class we got practice troubleshooting. But the experience made it more insightful and fun. Especially when it came to our own issues within the projects you assigned us.",
+    },
     // Add your note below this line ↓
   ],
 
@@ -129,6 +134,11 @@ const notes = {
       message:
         "It is still strange to hear that you are still a new professor, as I genuinely feel as though I felt the most excited for your lectures. Green River is genuinely lucky to have you. Breathing in life with a fresh perspective and having genuinely unique problems to solve was what gave me the confidence to keep learning and potentially persuing a masters.",
     },
+    {
+      from: "Daniel Mamani",
+      message:
+        "I enjoyed the projects you gave, as it gave us the flexiblity to explore options instead on being constrained to a speciific method. I also hope Frito is doing well, after all we quite the fluff ball",
+    },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
@@ -182,6 +192,11 @@ const notes = {
       from: "Niko Butenko",
       message:
         "Loveable and energetic, what is not to appreciate? Thank you for being kind, even around the rougher patches, and being obviously invested in everyone.",
+    },
+    {
+      from: "Daniel Mamani",
+      message:
+        "Your feedback was the most agressive I have ever received, compared to my public professors. But it was quite insightful, after all you are trying to grill us with care, and I appreciate that.",
     },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
@@ -254,6 +269,11 @@ const notes = {
       from: "Niko Butenko",
       message:
         "The clear passion and wealth of knowledge that you have made it impossible to feel overwhelmed in your classes, and I think that you of all professors helped me learn the most overall content. Though it might be my ADHD, jumping from topic to topic with alot of momentum is what this program could use more of!",
+    },
+    {
+      from: "Daniel Mamani",
+      message:
+        "I must admit, I enjoyed that you took sometime unconventional approaches to the tools we could use, and that you were accepting of AI, while focusing on making sure we understood the core concepts. I especially enojoyed the CI/CD assignment with OrangePi, as it was fun to set it up and see how deploying to a server works at the local setup level with concept that can translate to the cloud.",
     },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
