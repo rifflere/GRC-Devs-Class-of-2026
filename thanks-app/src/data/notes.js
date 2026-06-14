@@ -24,6 +24,7 @@ const notes = {
     { from: 'Abdirashid Ahmed', message: "Your class opened up so many new concepts to my world of programming, it's genuinely unreal. Teachers can make or break a subject, and you kept JavaScript one of my favorites even after the new complex topics which says a lot about your style and openness. Thank you, Josh!" },
     { from: 'Tav Singh', message: "Thank you for the support when Rebecca and I started as Boardmasters Presidents!" },
     { from: 'Tav Singh', message: "You kept me on my toes especially during the first year of the capstone, thank you for making sure I didn't procrastinate!" },
+    { from: 'Xavier Bradley', message: "When I first took your class for JS a couple years back, it really showed me how complex yet interesting programming can be. The projects you've given us have not only pushed me to be a better developer, but it has shown me how fun programming can be too! From the cat API, to the pug project, thank you so much for teaching me how to become a better web developer!" },
     // Add your note below this line ↓
   ],
 
@@ -39,6 +40,7 @@ const notes = {
     { from: 'Tav Singh', message: "It made me incredibly sad for the last year of this program that I would have no more classes with you. You are an incredible educator, and I am honored to have been your student. You have made me a better programmer and I thank you for all of the support and advice!" },
     { from: 'Tia Marie Gordon', message: "Thank you for being such an amazing professor! I learned so much from every class I had with you and wish we could have had you for one last year. I still have my unicorn duck and use it frequently. Future cohorts are so lucky to have you. I'll make sure to set aside time to stop by!" },
     { from: 'Liza Khrapach', message: "Auberon, you are truly an amazing instructor, and Green River is so lucky to have you! Your passion for technology is contagious, and you make everything so interesting. I'm very grateful for all your hard work and for how much you care about your students. Thank you so much, Auberon, for everything!" },
+    { from: 'Xavier Bradley', message: "You were truly an outstanding instructor. Not only did you take the time to explain concepts in a way we can understand and provide meaningful projects for our resume, you also encouraged us that we can still have a future in Software Development which greatly helped me continue. Thank you for your support (and the ducks), my enthusiasm for this program wouldn't be the same without you!" },  
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
@@ -51,6 +53,7 @@ const notes = {
     { from: 'Abdirashid Ahmed', message: "Any class I've taken with you was always a blast! Your push for peer collaboration and presentations helped me grow in ways I can’t describe in a thank you note. It's clear you want what's best for your students. Thank you, Tina!" },
     { from: 'Tav Singh', message: "You were one of two professors that told me to focus on software development and I'm happy I listened to you two. Thank you for an amazing 4 years of schooling" },
     { from: 'Liza Khrapach', message: "Tina, I've always respected your honesty, and I really appreciate how you bring people together. You encouraged me at my lowest, and it made a big difference — I wouldn't have gotten where I am without you. Thank you so much, Tina, for everything, and for being such a bright person in every way!" },
+    { from: 'Xavier Bradley', message: "Thank you so much for providing us the opportunity to work on software that can impact the world! Not only did this help me find the best teammates I've ever worked with, but you also encouraged us to continue when we were on the verge of quitting and you always dealt with our NDA constraints. Without you, my capstone, and future, would've been a lot different. Thanks for your support!" },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
@@ -70,6 +73,7 @@ const notes = {
     { from: 'Abdirashid Ahmed', message: "Your depth of knowledge in AI, machine learning, and tech overall is always inspiring! You struck the perfect balance between being an instructor/mentor and being approachable enough to talk to like a peer. You’re one of the only professors whose presentations I've actually downloaded to keep. You reinforced my love for learning. Thank you, Keller!" },
     { from: 'Tav Singh', message: "Thank you for your time and energy, I thoroughly enjoyed every class you've taught and I was ecstatic when I found out you were teaching more classes during the program. Thank you for being an amazing instructor!" },
     { from: 'Liza Khrapach', message: "I really appreciate how much effort you put into our class assignments, they were always interesting. You were also very understanding and went out of your way for us. Thank you so much Keller!" },
+    { from: 'Xavier Bradley', message: "I remember taking your SQL class years ago when I first started programming, and it was an amazing experience! That hasn't changed since I've taken your classes in the program, from React to AI. You always come with informative explanations for us to understand concepts in-depth, while giving us the chance to learn by ourselves. Your advice for obtaining and maintaining a career in Software was invaluable, thank you for helping us learn and grow!" },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
@@ -82,6 +86,7 @@ const notes = {
     { from: 'Abdirashid Ahmed', message: "I've taken a few of your classes online but seeing you in person confirmed that online doesn't do teachers justice! The joy and passion you bring to class is so apparent. You reassure me that if I ever become a teacher, I'd steal some of your qualities. Thank you, Tyler!" },
     { from: 'Tav Singh', message: "Though I never had a class with you, I thoroughly enjoyed the job update interview you gave me!" },
     { from: 'Liza Khrapach', message: "I only had you for the capstone, but I could already tell that you're an awesome instructor, Tyler! Thank you for teaching us things that will help us in the long run, and for caring about how we'll do after college!" },
+    { from: 'Xavier Bradley', message: "When I started my programming journey 3 years ago, your HTML + CSS class was the first class I took, and it was such a good start! Now here I am again, but at the end, and it's still just as good. You were an incredible instructor, helping us learn good practices like scheduling, getting us out of our shell to meet new people, and debating the ethics of software development. Thank you for your advice, positivity and perspective!"},
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
@@ -94,6 +99,7 @@ const notes = {
     { from: 'Abdirashid Ahmed', message: "Teaching online can feel like talking to a brick wall, but I noticed and appreciated every thoughtful comment on my Loom videos and feedback on my assignments, like when I may have misunderstood a core machine learning concept. Thank you, Susan! P.S. The donuts on exam days were amazing!" },
     { from: 'Tav Singh', message: "Thank you for introducing such a complex topic like AI, it had been a journey learning these topics and you made it easier!" },
     { from: 'Liza Khrapach', message: "You were always so supportive, and you truly care about your students and their success! You care to such an extent that you even brought doughnuts during exams for us a couple of times, haha. Thank you so much for everything, Suzan, and I wish you the best!" },
+    { from: 'Xavier Bradley', message: "Any class that I took with you was a great experience. My time learning the Java fundamentals with you has made it my favorite language. My skills in data analytics were built because of you. Going through machine learning for the first time was a great start for me. You were a thoughtful instructor, especially with the donuts for tests! I have learned a lot because of you, and it was an incredible experience. Thank you for the lessons!" },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 }
