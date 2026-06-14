@@ -38,7 +38,7 @@ const notes = {
     { from: 'Abdirashid Ahmed', message: "You taught some of the most essential computer science topics in ridiculously simple ways and I always walked away knowing more! Your energy and unique lesson plans made learning genuinely fun. Your openness made introverts like me comfortable enough to ask questions. Thank you, Auberon!" },
     { from: 'Tav Singh', message: "It made me incredibly sad for the last year of this program that I would have no more classes with you. You are an incredible educator, and I am honored to have been your student. You have made me a better programmer and I thank you for all of the support and advice!" },
     { from: 'Tia Marie Gordon', message: "Thank you for being such an amazing professor! I learned so much from every class I had with you and wish we could have had you for one last year. I still have my unicorn duck and use it frequently. Future cohorts are so lucky to have you. I'll make sure to set aside time to stop by!" },
-    { from: 'Liza Khrapach', message: "Auberon, you are truly an amazing instructor, and Green River is so lucky to have you! Your passion for technology is contagious, and you make everything so interesting. I'm very grateful for all your hard work and for how much you care about your students. Thank you so much, Auberon, for everything!"
+    { from: 'Liza Khrapach', message: "Auberon, you are truly an amazing instructor, and Green River is so lucky to have you! Your passion for technology is contagious, and you make everything so interesting. I'm very grateful for all your hard work and for how much you care about your students. Thank you so much, Auberon, for everything!" },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
@@ -50,7 +50,7 @@ const notes = {
     { from: 'Tim Williams', message: 'The effort you put into your classes was wonderful and noticeable, the structure helped me stay involved very well' },
     { from: 'Abdirashid Ahmed', message: "Any class I've taken with you was always a blast! Your push for peer collaboration and presentations helped me grow in ways I can’t describe in a thank you note. It's clear you want what's best for your students. Thank you, Tina!" },
     { from: 'Tav Singh', message: "You were one of two professors that told me to focus on software development and I'm happy I listened to you two. Thank you for an amazing 4 years of schooling" },
-    { from: 'Liza Khrapach', message: "Tina, I've always respected your honesty, and I really appreciate how you bring people together. You encouraged me at my lowest, and it made a big difference — I wouldn't have gotten where I am without you. Thank you so much, Tina, for everything, and for being such a bright person in every way!"
+    { from: 'Liza Khrapach', message: "Tina, I've always respected your honesty, and I really appreciate how you bring people together. You encouraged me at my lowest, and it made a big difference — I wouldn't have gotten where I am without you. Thank you so much, Tina, for everything, and for being such a bright person in every way!" },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
@@ -69,6 +69,7 @@ const notes = {
     { from: 'Tim Williams', message: 'Thank you for all your hardwork and time, every class felt like you cared and wanted us to walk out of the class with more than we had entered with.' },
     { from: 'Abdirashid Ahmed', message: "Your depth of knowledge in AI, machine learning, and tech overall is always inspiring! You struck the perfect balance between being an instructor/mentor and being approachable enough to talk to like a peer. You’re one of the only professors whose presentations I've actually downloaded to keep. You reinforced my love for learning. Thank you, Keller!" },
     { from: 'Tav Singh', message: "Thank you for your time and energy, I thoroughly enjoyed every class you've taught and I was ecstatic when I found out you were teaching more classes during the program. Thank you for being an amazing instructor!" },
+    { from: 'Liza Khrapach', message: "I really appreciate how much effort you put into our class assignments, they were always interesting. You were also very understanding and went out of your way for us. Thank you so much Keller!" },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
