@@ -158,6 +158,10 @@ const notes = {
       from: 'Augy Markham', 
       message: 'Thank you for always supporting us and pushing us to our limits. I think I learned the most from your classes; not just algorithms, but how to have confidence even when I feel out of place. Also, thank you for the ducks. They will be forever treasured.'
     },
+    { 
+      from: 'RJ Fredrick Rico', 
+      message: "Auberon, getting back into Java after a year break was really nerve-wrecking, but with your coursework, class structure, and easy-to-understand analogies, it felt like light work. Thank you so much for making the class feel like a 1-on-1 experience and committing so much time and effort into your lectures and assignments that I can say without a shadow of doubt, have thoroughly enjoyed throughout the IT program here at GRC. I will make sure to keep those ducks you gave to us for the entirety of my SDEV career!"
+    },
   ],
 
   tinaOstrander: [
@@ -226,7 +230,10 @@ const notes = {
       from: 'Augy Markham', 
       message: "You've seen more in me and pushed me more than anyone else. I will be forever greatful. There aren't enough words.. Thank you for everything, Tina."
     },
-    
+    { 
+      from: 'RJ Fredrick Rico', 
+      message: "Thank you Tina so much for teaching the capstone and giving us great retrospectives that lets us appreciate eachother! Your humour and conversations are always a great escape from some of the assignments we had to do in class! Thank you so much!"
+    },
   ],
 
   ixiusProcopios: [
@@ -322,7 +329,10 @@ const notes = {
       from: 'Augy Markham', 
       message: "I always felt like you gave your all in class, and I was always excited to learn from you. It was a joy to find out we were taking more classes from you. Thank you for always having an open mind and pushing us to be constantly curious and patient with ourselves."
     },
-
+    { 
+      from: 'RJ Fredrick Rico', 
+      message: "Hey Keller SDEV201 the SQL class was genuinely one of my favorites working with data, and the 1-on-1 finals never felt too hard or difficult. Thank you so much for teaching the capstone and being an awesome duo with Tina!"
+    },
   ],
 
   tylerSchrock: [
@@ -385,6 +395,10 @@ const notes = {
     { 
       from: 'Augy Markham', 
       message: "I constantly felt more grounded after a lecture from you. You brought a certain humanity to programming and made us think about things we hadn't before. You're such a vibe and I'm so glad we got to take one last class with you!"
+    },
+    { 
+      from: 'RJ Fredrick Rico', 
+      message: "Thank you Tyler for teaching the last half of the capstone, there was alot of great insights about the real world that you taught us and I'm glad you've spent alot of effort to prepare us for that! Also thanks for the disc golf stuff LOL, I will make sure to remind everyone on the course that a local Washington State disc golf legend gave me my driver and putter after shooting +5 over!"
     },
   ],
 
