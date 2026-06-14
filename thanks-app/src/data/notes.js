@@ -228,7 +228,7 @@ const notes = {
     },
     { 
       from: 'Augy Markham', 
-      message: "You've seen more in me and pushed me more than anyone else. I will be forever greatful. There aren't enough words.. Thank you for everything, Tina."
+      message: "You've seen more in me and pushed me more than anyone else. I will be forever grateful. There aren't enough words.. Thank you for everything, Tina."
     },
     { 
       from: 'RJ Fredrick Rico', 
