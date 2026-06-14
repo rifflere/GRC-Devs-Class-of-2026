@@ -10,6 +10,14 @@ export default function StudentsPage() {
           Green River College Software Development — the graduating cohort
         </p>
       </div>
+      <div className="class-photo-frame">
+        <img
+          src="./photos/students/all.jpg"
+          alt="The Class of 2026"
+          className="class-photo"
+        />
+        <p className="class-photo-caption">Green River College · Software Development · 2026</p>
+      </div>
       <div className="students-grid">
         {students.map((student, index) => (
           <StudentCard key={index} student={student} />

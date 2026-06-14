@@ -346,6 +346,14 @@
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
+.sticky-note--md {
+  width: 220px;
+}
+
+.sticky-note--lg {
+  width: 300px;
+}
+
 .sticky-note::before {
   content: '';
   position: absolute;
@@ -380,6 +388,34 @@
 }
 
 /* ── Students Page ─────────────────────────────────────── */
+
+.class-photo-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: white;
+  border: 1px solid var(--border);
+  border-top: 4px solid var(--gold);
+  border-radius: 8px;
+  padding: 16px 16px 12px;
+  margin-bottom: 40px;
+  box-shadow: var(--shadow);
+}
+
+.class-photo {
+  width: 100%;
+  border-radius: 4px;
+  display: block;
+}
+
+.class-photo-caption {
+  font-size: 0.78rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-light);
+  margin-top: 10px;
+  margin-bottom: 0;
+}
 
 .students-page-header {
   text-align: center;
@@ -485,6 +521,14 @@
     min-height: 130px;
   }
 
+  .sticky-note--md {
+    width: 200px;
+  }
+
+  .sticky-note--lg {
+    width: 260px;
+  }
+
   .students-grid {
     grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
     gap: 16px;
@@ -528,6 +572,14 @@
   .sticky-note {
     width: calc(50% - 7px);
     min-height: 120px;
+  }
+
+  .sticky-note--md {
+    width: calc(65% - 7px);
+  }
+
+  .sticky-note--lg {
+    width: 100%;
   }
 
   .students-grid {
