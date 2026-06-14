@@ -55,6 +55,12 @@ const students = [
     blurb: 'Cohort 21 | Learning every day and every night to improve my skills and help those around me.',
     linkedin: 'https://www.linkedin.com/in/xavier-bradley-4bb239307/',
     photo: '/photos/students/XavierBradley.jpg'
+  },
+  {
+    name: 'Raymond Marx',
+    blurb: 'Cohort 20 | Self-taught, across areas such as formal mathematics, philosophy, and various others, looking to integrate multiple schools of thought to the research and engineering process and create new ideas.',
+    linkedin: 'https://www.linkedin.com/in/rmarx1456/',
+    photo: null
   }
 ]
 

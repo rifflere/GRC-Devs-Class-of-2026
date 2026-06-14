@@ -67,6 +67,11 @@ const notes = {
         "I loved the energy you brought to class and how you adopted new technologies, even though as a class we got practice troubleshooting. But the experience made it more insightful and fun. Especially when it came to our own issues within the projects you assigned us.",
     },
     // Add your note below this line ↓
+    {
+      from: "Raymond Marx",
+      message:
+        "Thanks for the lessons on Node.js and express backends, they were very foundational to my software engineering skillset and demystified hosting, servers, and web development for me."
+    }
   ],
 
   auberonLópez: [
@@ -140,6 +145,11 @@ const notes = {
         "I enjoyed the projects you gave, as it gave us the flexiblity to explore options instead on being constrained to a speciific method. I also hope Frito is doing well, after all we quite the fluff ball",
     },
     // { from: 'Your Name', message: 'Your message here!' },
+    {
+      from: "Raymond Marx",
+      message:
+        "It was always exciting and fun getting to explore my interests with you that were beyond what was required of the cirriculum. I look forward to sharing more ideas with you one day!"
+    }
   ],
 
   tinaOstrander: [
@@ -199,6 +209,11 @@ const notes = {
         "Your feedback was the most agressive I have ever received, compared to my public professors. But it was quite insightful, after all you are trying to grill us with care, and I appreciate that.",
     },
     // { from: 'Your Name', message: 'Your message here!' },
+    {
+      from: "Raymond Marx",
+      message:
+        "You gave us our first exposure to node.js, and set the foundation for our web. The questions you asked about my work also set me in the right direction, giving me the push I needed."
+    }
   ],
 
   ixiusProcopios: [
@@ -217,6 +232,11 @@ const notes = {
         "I wished you had taught more classes, you made understanding react a breeze and you made so many topics easy to understand!",
     },
     // { from: 'Your Name', message: 'Your message here!' },
+    {
+      from: "Raymond Marx",
+      message:
+        "Your lessons on React made front-end development significantly more accessible and tractable for me, allowing me to explore alternative options for web development where I otherwise would have struggled."
+    }
   ],
 
   kellerFlint: [
@@ -276,6 +296,12 @@ const notes = {
         "I must admit, I enjoyed that you took sometime unconventional approaches to the tools we could use, and that you were accepting of AI, while focusing on making sure we understood the core concepts. I especially enojoyed the CI/CD assignment with OrangePi, as it was fun to set it up and see how deploying to a server works at the local setup level with concept that can translate to the cloud.",
     },
     // { from: 'Your Name', message: 'Your message here!' },
+    {
+      from: "Raymond Marx",
+      message:
+        "It meant a lot to me that you were an instructor but also just in our shoes, as a GRC SDEV student just like us. Your lessons on CI/CD, Hosting, Deployment, and AI, also helped revolutionize my software engineering and have left me significantly more confident as a software engineer (and also your lessons have undoubtedly helped me save TONS of time during development)."
+    }
+
   ],
 
   tylerSchrock: [
@@ -330,6 +356,11 @@ const notes = {
         "Unfortunately I've not had any other classes with you, and my only experince with you has been the Capstone of which I've already had alot of momentum on, so never really had an opportunity to speak. From what I've interacted with you, though, I can tell you are genuinely impassioned and want to see the best in people.",
     },
     // { from: 'Your Name', message: 'Your message here!' },
+    {
+      from: "Raymond Marx",
+      message:
+        "I only had SDEV 106 with you in winter quarter 2023, and now SDEV 486, with you this spring quarter, however you provided us with a lot of resources during this last quarter, helped us reach the finish line, and gave very important perspectives beyond just softare development like business and ethics perspectives, which I seriously appreciate and believe anyone could use when entering the industry."
+    }
   ],
 
   susanUland: [
@@ -384,6 +415,11 @@ const notes = {
         "I only had the one class with you, and it was a shame that I took the online version because I only heard good things from the in-person people!!!",
     },
     // { from: 'Your Name', message: 'Your message here!' },
+    {
+      from: "Raymond Marx",
+      message:
+        "There were quite a few times during the program when I was stressed, and the pacing of your courses allowed me to slow down and take a breather. Your lessons in python and data anayltics (especially the data flow/pipeline skills) are becoming increasingly valuable as I come across new ideas and problems."
+    }
   ],
 };
 
