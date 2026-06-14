@@ -61,7 +61,13 @@ const students = [
     blurb: 'Cohort 20 | Self-taught, across areas such as formal mathematics, philosophy, and various others, looking to integrate multiple schools of thought to the research and engineering process and create new ideas.',
     linkedin: 'https://www.linkedin.com/in/rmarx1456/',
     photo: null
-  }
+  },
+  {
+    name: 'Augy Markham',
+    blurb: "Cohort 20 | Design and user experience is my passion. Using my graphic design background and full-stack skills, I will obsessively plan any project I'm given.",
+    linkedin: 'https://www.linkedin.com/in/augy-markham/',
+    photo: '/photos/students/augymarkham.jpg',
+  },
 ]
 
 export default students
