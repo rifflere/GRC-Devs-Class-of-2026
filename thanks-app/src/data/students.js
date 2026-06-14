@@ -88,6 +88,13 @@ const students = [
     linkedin: "https://www.linkedin.com/in/rjfredrickrico/",
     photo: "/photos/students/RJFredrickRico.jpg",
   },
+  {
+    name: "Alexander Ruban",
+    blurb:
+      "Cohort 20 | From building houses and turning wrenches to building software and turning prompts, now a software developer and professional vibe coder.",
+    linkedin: "https://www.linkedin.com/in/alexanderruban/",
+    photo: "/photos/students/alexanderRuban.jpg",
+  },
 ];
 
 export default students;

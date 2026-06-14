@@ -72,9 +72,13 @@ const notes = {
       message:
         "Thanks for the lessons on Node.js and express backends, they were very foundational to my software engineering skillset and demystified hosting, servers, and web development for me."
     },
-    { 
-      from: 'Augy Markham', 
+    {
+      from: 'Augy Markham',
       message: "Your class taught us such valuable fundamental skills that I think we all will carry with us in our projects to come. Thank you!"
+    },
+    {
+      from: 'Alex Ruban',
+      message: "Your classes were always great and covered topics that helped me grow as a developer. You taught solid practices that I still use today, and you were always willing to have a side conversation or answer questions. Thank you for everything, Josh!",
     },
   ],
 
@@ -162,6 +166,10 @@ const notes = {
       from: 'RJ Fredrick Rico', 
       message: "Auberon, getting back into Java after a year break was really nerve-wrecking, but with your coursework, class structure, and easy-to-understand analogies, it felt like light work. Thank you so much for making the class feel like a 1-on-1 experience and committing so much time and effort into your lectures and assignments that I can say without a shadow of doubt, have thoroughly enjoyed throughout the IT program here at GRC. I will make sure to keep those ducks you gave to us for the entirety of my SDEV career!"
     },
+    {
+      from: 'Alex Ruban',
+      message: "Thank you for always being a fun teacher with the whiteboards and ducks while still making complex topics easy to understand. You helped me immensely with algorithms and data structures, as well as preparing for technical interviews and getting serious about LeetCode. Thank you for all the knowledge and support throughout the program.",
+    },
   ],
 
   tinaOstrander: [
@@ -234,6 +242,10 @@ const notes = {
       from: 'RJ Fredrick Rico', 
       message: "Thank you Tina so much for teaching the capstone and giving us great retrospectives that lets us appreciate eachother! Your humour and conversations are always a great escape from some of the assignments we had to do in class! Thank you so much!"
     },
+    {
+      from: 'Alex Ruban',
+      message: "Thank you for being a great teacher with all your kindness, honesty, and humor. You taught us valuable web development skills and guided a great capstone experience, always willing to step in and help when needed. Thank you for giving us the opportunity to work on multiple real-world projects and helping us finish our degree strong.",
+    },
   ],
 
   ixiusProcopios: [
@@ -260,6 +272,10 @@ const notes = {
     { 
       from: 'Augy Markham', 
       message: "React was genuinely so scary before we got to your class. Thank you for making it accessible and fun! I wish we had more classes with you."
+    },
+    {
+      from: 'Alex Ruban',
+      message: "Thank you very much for being such a great person, making our classes fun, and helping all of us immensely better understand React. You took it from being something completely foreign to us to something we can now use almost blindfolded. Thank you for all the knowledge and for making such a challenging topic approachable and enjoyable to learn.",
     },
   ],
 
@@ -333,6 +349,10 @@ const notes = {
       from: 'RJ Fredrick Rico', 
       message: "Hey Keller SDEV201 the SQL class was genuinely one of my favorites working with data, and the 1-on-1 finals never felt too hard or difficult. Thank you so much for teaching the capstone and being an awesome duo with Tina!"
     },
+    {
+      from: 'Alex Ruban',
+      message: "Thank you so much for being a great and incredibly knowledgeable professor who always wanted us to succeed and made difficult topics easy to understand. Your classes on SQL, AI and machine learning, hosting, and cloud deployment helped expand my understanding of software engineering in a huge way. I always appreciated how approachable you were, your willingness to answer questions and have side conversations, and the passion you brought to teaching. One of my favorite parts of your classes was the one-on-one midterms and finals because they felt focused on actually learning the material rather than just passing an exam. Thank you as well for helping Tina teach the first capstone class and keeping us on track throughout the process. Thank you for everything, Keller.",
+    },
   ],
 
   tylerSchrock: [
@@ -400,6 +420,10 @@ const notes = {
       from: 'RJ Fredrick Rico', 
       message: "Thank you Tyler for teaching the last half of the capstone, there was alot of great insights about the real world that you taught us and I'm glad you've spent alot of effort to prepare us for that! Also thanks for the disc golf stuff LOL, I will make sure to remind everyone on the course that a local Washington State disc golf legend gave me my driver and putter after shooting +5 over!"
     },
+    {
+      from: 'Alex Ruban',
+      message: "Thank you for teaching the second half of capstone alongside Tina. Even though this was my only class with you, I really appreciated everything you did for us. Thank you for all the great conversations, the wisdom you shared about the future, and even the off-topic discussions that always made class more enjoyable. You were always supportive, genuinely wanted us to improve, and were willing to share what has helped you throughout your own career and experiences. Thank you as well for helping keep us accountable with our projects and pushing us to do our best. I'll also be looking into disc golf, so thank you for introducing me to that too!",
+    },
   ],
 
   susanUland: [
@@ -462,6 +486,10 @@ const notes = {
     { 
       from: 'Augy Markham', 
       message: "You're so awesome, Susan. You're classes were so chill and an amazing change of pace from our other classes. You never made us feel dumb, and worked with us even when we were so so confused. Thank you for your unending patience!"
+    },
+    {
+      from: 'Alex Ruban',
+      message: "Thank you for always being so kind and supportive and for going out of your way to make sure we succeeded and learned what we needed to. I enjoyed all of the courses I took with you, from the fundamentals classes to data analytics, and especially the AI and Machine Learning course. I thoroughly enjoyed taking that class in person and am very glad I had the opportunity to learn from you. Thank you for all of your encouragement, support, and dedication to helping your students succeed.",
     },
   ],
 };
