@@ -71,7 +71,11 @@ const notes = {
       from: "Raymond Marx",
       message:
         "Thanks for the lessons on Node.js and express backends, they were very foundational to my software engineering skillset and demystified hosting, servers, and web development for me."
-    }
+    },
+    { 
+      from: 'Augy Markham', 
+      message: "Your class taught us such valuable fundamental skills that I think we all will carry with us in our projects to come. Thank you!"
+    },
   ],
 
   auberonLópez: [
@@ -149,7 +153,11 @@ const notes = {
       from: "Raymond Marx",
       message:
         "It was always exciting and fun getting to explore my interests with you that were beyond what was required of the cirriculum. I look forward to sharing more ideas with you one day!"
-    }
+    },
+    { 
+      from: 'Augy Markham', 
+      message: 'Thank you for always supporting us and pushing us to our limits. I think I learned the most from your classes; not just algorithms, but how to have confidence even when I feel out of place. Also, thank you for the ducks. They will be forever treasured.'
+    },
   ],
 
   tinaOstrander: [
@@ -213,7 +221,12 @@ const notes = {
       from: "Raymond Marx",
       message:
         "You gave us our first exposure to node.js, and set the foundation for our web. The questions you asked about my work also set me in the right direction, giving me the push I needed."
-    }
+    },
+    { 
+      from: 'Augy Markham', 
+      message: "You've seen more in me and pushed me more than anyone else. I will be forever greatful. There aren't enough words.. Thank you for everything, Tina."
+    },
+    
   ],
 
   ixiusProcopios: [
@@ -236,7 +249,11 @@ const notes = {
       from: "Raymond Marx",
       message:
         "Your lessons on React made front-end development significantly more accessible and tractable for me, allowing me to explore alternative options for web development where I otherwise would have struggled."
-    }
+    },
+    { 
+      from: 'Augy Markham', 
+      message: "React was genuinely so scary before we got to your class. Thank you for making it accessible and fun! I wish we had more classes with you."
+    },
   ],
 
   kellerFlint: [
@@ -300,7 +317,11 @@ const notes = {
       from: "Raymond Marx",
       message:
         "It meant a lot to me that you were an instructor but also just in our shoes, as a GRC SDEV student just like us. Your lessons on CI/CD, Hosting, Deployment, and AI, also helped revolutionize my software engineering and have left me significantly more confident as a software engineer (and also your lessons have undoubtedly helped me save TONS of time during development)."
-    }
+    },
+    { 
+      from: 'Augy Markham', 
+      message: "I always felt like you gave your all in class, and I was always excited to learn from you. It was a joy to find out we were taking more classes from you. Thank you for always having an open mind and pushing us to be constantly curious and patient with ourselves."
+    },
 
   ],
 
@@ -360,7 +381,11 @@ const notes = {
       from: "Raymond Marx",
       message:
         "I only had SDEV 106 with you in winter quarter 2023, and now SDEV 486, with you this spring quarter, however you provided us with a lot of resources during this last quarter, helped us reach the finish line, and gave very important perspectives beyond just softare development like business and ethics perspectives, which I seriously appreciate and believe anyone could use when entering the industry."
-    }
+    },
+    { 
+      from: 'Augy Markham', 
+      message: "I constantly felt more grounded after a lecture from you. You brought a certain humanity to programming and made us think about things we hadn't before. You're such a vibe and I'm so glad we got to take one last class with you!"
+    },
   ],
 
   susanUland: [
@@ -419,7 +444,11 @@ const notes = {
       from: "Raymond Marx",
       message:
         "There were quite a few times during the program when I was stressed, and the pacing of your courses allowed me to slow down and take a breather. Your lessons in python and data anayltics (especially the data flow/pipeline skills) are becoming increasingly valuable as I come across new ideas and problems."
-    }
+    },
+    { 
+      from: 'Augy Markham', 
+      message: "You're so awesome, Susan. You're classes were so chill and an amazing change of pace from our other classes. You never made us feel dumb, and worked with us even when we were so so confused. Thank you for your unending patience!"
+    },
   ],
 };
 
