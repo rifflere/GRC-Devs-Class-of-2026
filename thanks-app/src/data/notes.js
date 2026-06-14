@@ -81,6 +81,7 @@ const notes = {
     { from: 'Tim Williams', message: 'Your advice was well received and always helped us view at different angles.' },
     { from: 'Abdirashid Ahmed', message: "I've taken a few of your classes online but seeing you in person confirmed that online doesn't do teachers justice! The joy and passion you bring to class is so apparent. You reassure me that if I ever become a teacher, I'd steal some of your qualities. Thank you, Tyler!" },
     { from: 'Tav Singh', message: "Though I never had a class with you, I thoroughly enjoyed the job update interview you gave me!" },
+    { from: 'Liza Khrapach', message: "I only had you for the capstone, but I could already tell that you're an awesome instructor, Tyler! Thank you for teaching us things that will help us in the long run, and for caring about how we'll do after college!" },
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
