@@ -50,6 +50,7 @@ const notes = {
     { from: 'Tim Williams', message: 'The effort you put into your classes was wonderful and noticeable, the structure helped me stay involved very well' },
     { from: 'Abdirashid Ahmed', message: "Any class I've taken with you was always a blast! Your push for peer collaboration and presentations helped me grow in ways I can’t describe in a thank you note. It's clear you want what's best for your students. Thank you, Tina!" },
     { from: 'Tav Singh', message: "You were one of two professors that told me to focus on software development and I'm happy I listened to you two. Thank you for an amazing 4 years of schooling" },
+    { from: 'Liza Khrapach', message: "Tina, I've always respected your honesty, and I really appreciate how you bring people together. You encouraged me at my lowest, and it made a big difference — I wouldn't have gotten where I am without you. Thank you so much, Tina, for everything, and for being such a bright person in every way!"
     // { from: 'Your Name', message: 'Your message here!' },
   ],
 
