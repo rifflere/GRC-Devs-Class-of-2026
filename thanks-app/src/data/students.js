@@ -82,6 +82,12 @@ const students = [
     linkedin: "https://www.linkedin.com/in/nick-butenko-7a875722a/",
     photo: "/photos/students/NikoButenko.jpg",
   },
+  {
+    name: "RJ Fredrick Rico",
+    blurb: "Cohort 21 | Full-Time Software Developer, Part-Time Pool Hustler",
+    linkedin: "https://www.linkedin.com/in/rjfredrickrico/",
+    photo: "/photos/students/RJFredrickRico.jpg",
+  },
 ];
 
 export default students;
