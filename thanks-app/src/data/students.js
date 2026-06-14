@@ -49,6 +49,12 @@ const students = [
     blurb: 'Cohort 21 | At home refactoring code at 2am or getting lost in a city where no one speaks my language.',
     linkedin: 'https://www.linkedin.com/in/abdirashid1',
     photo: '/photos/students/abdirashidAhmed.jpg'
+  },
+  {
+    name: 'Xavier Bradley',
+    blurb: 'Cohort 21 | Learning every day and every night to improve my skills and help those around me.',
+    linkedin: 'https://www.linkedin.com/in/xavier-bradley-4bb239307/',
+    photo: '/photos/students/XavierBradley.jpg'
   }
 ]
 
